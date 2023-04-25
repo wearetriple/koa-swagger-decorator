@@ -1,0 +1,13 @@
+example
+lib
+__tests__
+.eslintignore
+.travis.yml
+.vscode
+commitlint.config.js
+jest.config.js
+tslint.json
+tsconfig.json
+temp
+CHANGELOG.md
+CONTRIBUTING.md
